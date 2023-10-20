@@ -1,0 +1,42 @@
+lt_e = VALUE #(
+  ( test1 = 'test'
+    test2 = VALUE #(
+      mandt = '100'
+      carrid = 'carrid1'
+      carrname = 'carrname1'
+      currcode = 'EUR'
+    )
+  )
+  ( test1 = 'test'
+    test2 = VALUE #(
+      mandt = '100'
+      carrid = 'carrid2'
+      carrname = 'carrname2'
+      currcode = 'EUR'
+    )
+  )
+  ( test1 = 'test'
+    test2 = VALUE #(
+      mandt = '100'
+      carrid = 'carrid3'
+      carrname = 'carrname3'
+      currcode = 'EUR'
+    )
+  )
+  ( test1 = 'test'
+    test2 = VALUE #(
+      mandt = '100'
+      carrid = 'carrid4'
+      carrname = 'carrname4'
+      currcode = 'EUR'
+    )
+  )
+  ( test1 = 'test'
+    test2 = VALUE #(
+      mandt = '100'
+      carrid = 'carrid5'
+      carrname = 'carrname5'
+      currcode = 'EUR'
+    )
+  )
+)
