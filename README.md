@@ -2,7 +2,7 @@
 
 The standard "Copy as ABAP Value Statement..." function of Eclipses' ADT often is not enough to get a readable value statement.
 
-While this format may be adequate enough for small data tables, larger one definitely get unreadable.
+While this format may be adequate enough for small data tables, larger one definitely get unreadable. 
 lt_q = VALUE #(
   ( mandt = '100' carrid = 'carrid1' carrname = 'carrname1' currcode = 'EUR' )
   ( mandt = '100' carrid = 'carrid2' carrname = 'carrname2' currcode = 'EUR' )
