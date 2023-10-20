@@ -1,6 +1,6 @@
 # ABAP-Value-Statement-Formatter
 
-The standard "Copy as ABAP Value Statement..." function of Eclipses' ADT often is not enough to get a readable value statement.
+The standard "Copy as ABAP Value Statement..." function of Eclipses' debugger with ADT often is not enough to get a readable value statement.
 While the standard format may be adequate enough for small data tables, larger ones definitely get unreadable, at least for me.
 
 This script is a work around I created to automate my testing experience while mocking tables in ABAP. It is nowhere perfect, optimized or extensively tested. 
