@@ -7,7 +7,7 @@ This script is a work around I created to automate my testing experience while m
 Feel free to copy, use and extend any part of the script. Have fun!
 
 The script expects an Input.txt file filled with an unstructured abap value statement from ADT and formats it, putting the output into a Output.txt file.
-It uses a combination of an elaborate RegEx statement (created with the help of ChatGPT ;) ) and tokenization to reformat the input and give each table field an own line.
+It uses a combination of a RegEx statement and tokenization to reformat the input and give each table field an own line.
 It can also handle multiple nested structured.
 
 Limitation: All field values have to be in string format, i.e. inside ''. 
